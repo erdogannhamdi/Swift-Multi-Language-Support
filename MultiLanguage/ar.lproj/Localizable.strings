@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  MultiLanguage
+
+  Created by Apple on 10.07.2020.
+  Copyright © 2020 erdogan. All rights reserved.
+*/
+
+"Hata" = "خطأ";
+"Hata Mesajı" = "رسالة خطأ";
+"Reddet" = "مرفوض";

@@ -1,0 +1,9 @@
+
+/* Class = "UIButton"; normalTitle = "Giriş"; ObjectID = "HpV-TN-pmG"; */
+"HpV-TN-pmG.normalTitle" = "Giriş";
+
+/* Class = "UILabel"; text = "Hoş Geldiniz"; ObjectID = "JKY-Ci-Hre"; */
+"JKY-Ci-Hre.text" = "Hoş Geldiniz";
+
+/* Class = "UITextField"; placeholder = "Kullanıcı Adı"; ObjectID = "tTG-f6-YoJ"; */
+"tTG-f6-YoJ.placeholder" = "Kullanıcı Adı";
